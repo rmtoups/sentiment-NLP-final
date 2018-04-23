@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 from StanfordSentiment import utils
@@ -15,7 +15,7 @@ newCorrect = 0
 total = 0
 
 for line in inFile.readlines():
-	print line
+	print(line)
 	total += 1
 	#get Stanford annotations
 	nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
@@ -30,9 +30,9 @@ for line in inFile.readlines():
 	sentiment = int(round(float(sentiment)/float(len(output['sentences']))))
 	if sentiment == correctSentiment:
 		stanfordCorrect += 1
-	print sentiment
+	print(sentiment)
 
-print "\nStanford: %i out of %i correct" % (stanfordCorrect,total)
+print("\nStanford: %i out of %i correct" % (stanfordCorrect,total))
 
 #find conjunctions
 

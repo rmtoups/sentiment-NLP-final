@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from stanfordcorenlp import StanfordCoreNLP
 from pprint import pprint
