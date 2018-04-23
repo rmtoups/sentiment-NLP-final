@@ -4,15 +4,16 @@ from stanfordcorenlp import StanfordCoreNLP
 from pprint import pprint
 import json
 
+class utils():
 
-nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
-sentence = raw_input("Please enter a sentence: ")
-#print sentence
+	@staticmethod
+	def callAPI(input,task):
+		nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
+		props = {'annotators': 'sentiment,pos','pipelineLanguage':'en','outputFormat':'json'}
+		return json.loads(nlp.annotate(input,properties=props))
 
-prop = props={'annotators': 'sentiment','pipelineLanguage':'en','outputFormat':'json'}
+	@staticmethod
+	def getStanfordSentiment(input):
+		return utils.callAPI(input,'sentiment')['sentences'][0]['sentiment']
 
-output = json.loads(nlp.annotate(sentence,properties=props))
-
-pprint(output)
-
-print output['sentences'][0]['sentiment']
+#pprint(utils.callAPI("I hate you.",'pos'))
