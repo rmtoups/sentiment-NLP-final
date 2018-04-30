@@ -1,80 +1,84 @@
 4/29: All positive sentences classified as very negative and negative sentences classified as very positive have been categorized here.
 Some of these categories should probably be merged.
+
+First column is which corpus it was from (positive or negative), and second is what it was tagged as.
 ==============================================
 
+
 DAMNED WITH FAINT PRAISE
-it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere . 
-the cast is uniformly excellent . . . but the film itself is merely mildly charming . 
-a solid film . . . but more conscientious than it is truly stirring . 
-the film is old-fashioned , occasionally charming and as subtle as boldface . 
-
-
+N	VP	it's a very tasteful rock and roll movie . you could put it on a coffee table anywhere . 
+N	VP	the film is old-fashioned , occasionally charming and as subtle as boldface . 
+N	VP	a solid film . . . but more conscientious than it is truly stirring . 
+N	VP	the cast is uniformly excellent . . . but the film itself is merely mildly charming . 
+		
+		
 POTENTIALLY MISCATEGORIZED IN CORPUS (out of scope)
-the art direction is often exquisite , and the anthropomorphic animal characters are beautifully realized through clever makeup design , leaving one to hope that the eventual dvd release will offer subtitles and the original italian-language soundtrack . 
-the best thing about the movie is its personable , amusing cast . 
-the stunt work is top-notch ; the dialogue and drama often food-spittingly funny . 
-it's refreshing that someone understands the need for the bad boy ; diesel , with his brawny frame and cool , composed delivery , fits the bill perfectly . 
-' . . . the film's considered approach to its subject matter is too calm and thoughtful for agitprop , and the thinness of its characterizations makes it a failure as straight drama . '
-an uncomfortable movie , suffocating and sometimes almost senseless , the grey zone does have a center , though a morbid one . 
-ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine . 
-
-
+P	VN	ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine . 
+P	VN	an uncomfortable movie , suffocating and sometimes almost senseless , the grey zone does have a center , though a morbid one . 
+P	VN	' . . . the film's considered approach to its subject matter is too calm and thoughtful for agitprop , and the thinness of its characterizations makes it a failure as straight drama . '
+N	VP	the art direction is often exquisite , and the anthropomorphic animal characters are beautifully realized through clever makeup design , leaving one to hope that the eventual dvd release will offer subtitles and the original italian-language soundtrack . 
+N	VP	it's refreshing that someone understands the need for the bad boy ; diesel , with his brawny frame and cool , composed delivery , fits the bill perfectly . 
+N	VP	the best thing about the movie is its personable , amusing cast . 
+N	VP	the stunt work is top-notch ; the dialogue and drama often food-spittingly funny . 
+		
+		
 SARCASM (out of scope)
-this is a monumental achievement in practically every facet of inept filmmaking : joyless , idiotic , annoying , heavy-handed , visually atrocious , and often downright creepy . 
-such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us " the skulls " and last year's " rollerball . " enough said , except : film overboard ! 
-a portrait of alienation so perfect , it will certainly succeed in alienating most viewers . 
-
-
+N	VP	this is a monumental achievement in practically every facet of inept filmmaking : joyless , idiotic , annoying , heavy-handed , visually atrocious , and often downright creepy . 
+N	P	such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us " the skulls " and last year's " rollerball . " enough said , except : film overboard ! 
+N	P	a portrait of alienation so perfect , it will certainly succeed in alienating most viewers . 
+		
+		
 I DON'T EVEN KNOW
-the film takes the materials of human tragedy and dresses them in lovely costumes , southern california locations and star power . 
-must-see viewing for anyone involved in the high-tech industry . others may find it migraine-inducing , despite moore's attempts at whimsy and spoon feeding . 
-a painfully funny ode to bad behavior . 
-
-
+P	VN	a painfully funny ode to bad behavior . 
+N	VP	the film takes the materials of human tragedy and dresses them in lovely costumes , southern california locations and star power . 
+N	VP	must-see viewing for anyone involved in the high-tech industry . others may find it migraine-inducing , despite moore's attempts at whimsy and spoon feeding . 
+		
+		
 MISCELLANEOUS OUT OF SCOPE
-works because , for the most part , it avoids the stupid cliches and formulaic potholes that befall its brethren . 
-
-
+P	VN	works because , for the most part , it avoids the stupid cliches and formulaic potholes that befall its brethren . 
+		
+		
 REVIEW IS NOT IN ENGLISH (out of scope)
-más sarcástica , divertida y demencial que su predecesora , es un buen ejemplo de lo que es el cine de entretenimiento puro y sin complejos . 
-contando com uma premissa curiosa , o filme mergulha o espectador em um clima de forte suspense , culminando em um desfecho que certamente fica na memória . 
-en sí mismo el rey león es un espectáculo digno de contemplarse en cine , dvd o en su soberbio montaje teatral ; pero el hacerlo en la pantalla imax es una experiencia colosal . 
-É uma pena que , mais tarde , o próprio filme abandone o tom de paródia e passe a utilizar os mesmos clichês que havia satirizado . 
-gran historia sobre el amor , la familia , la lealtad y la traición que seguramente se convertirá en un nuevo clásico del género . 
-obligada para impotentes , daneses , camareras italianas , profesores de idiomas , y todo aquel que desee una lengua para expresar su amor . 
-
-
+P	VN	más sarcástica , divertida y demencial que su predecesora , es un buen ejemplo de lo que es el cine de entretenimiento puro y sin complejos . 
+P	VN	contando com uma premissa curiosa , o filme mergulha o espectador em um clima de forte suspense , culminando em um desfecho que certamente fica na memória . 
+P	VN	en sí mismo el rey león es un espectáculo digno de contemplarse en cine , dvd o en su soberbio montaje teatral ; pero el hacerlo en la pantalla imax es una experiencia colosal . 
+P	VN	obligada para impotentes , daneses , camareras italianas , profesores de idiomas , y todo aquel que desee una lengua para expresar su amor . 
+P	VN	É uma pena que , mais tarde , o próprio filme abandone o tom de paródia e passe a utilizar os mesmos clichês que havia satirizado . 
+P	VN	gran historia sobre el amor , la familia , la lealtad y la traición que seguramente se convertirá en un nuevo clásico del género . 
+		
+		
 ANALOGY-BASED or FIGURATIVE LANGUAGE (out of scope)
-. . . about as exciting to watch as two last-place basketball teams playing one another on the final day of the season . 
-handled correctly , wilde's play is a masterpiece of elegant wit and artifice . here , alas , it collapses like an overcooked soufflé . 
-though it's not very well shot or composed or edited , the score is too insistent and the dialogue is frequently overwrought and crudely literal , the film shatters you in waves . 
- . . . a fascinating curiosity piece -- fascinating , that is , for about ten minutes . after that it becomes long and tedious like a classroom play in a college history course . 
-
-
+P	VN	though it's not very well shot or composed or edited , the score is too insistent and the dialogue is frequently overwrought and crudely literal , the film shatters you in waves . 
+N	VP	handled correctly , wilde's play is a masterpiece of elegant wit and artifice . here , alas , it collapses like an overcooked soufflé . 
+N	VP	. . . about as exciting to watch as two last-place basketball teams playing one another on the final day of the season . 
+N	VP	. . . a fascinating curiosity piece -- fascinating , that is , for about ten minutes . after that it becomes long and tedious like a classroom play in a college history course . 
+		
+		
 NEGATION
-no worse a film than breaking out , and breaking out was utterly charming . 
-
+P	VN	no worse a film than breaking out , and breaking out was utterly charming . 
+		
 CONTRASTIVE CONJUNCTION
-lacks the inspiration of the original and has a bloated plot that stretches the running time about 10 minutes past a child's interest and an adult's patience . but it also has many of the things that made the first one charming . 
-a mess , but it's a sincere mess . 
-watching austin powers in goldmember is like binging on cotton candy . it's sweet and fluffy at the time , but it may leave you feeling a little sticky and unsatisfied . 
-woody allen can write and deliver a one liner as well as anybody . but i had a lot of problems with this movie . 
-part comedy , part drama , the movie winds up accomplishing neither in full , and leaves us feeling touched and amused by several moments and ideas , but nevertheless dissatisfied with the movie as a whole . 
-the film is surprisingly well-directed by brett ratner , who keeps things moving well -- at least until the problematic third act . 
-serry does a fine job of capturing the climate of the times and , perhaps unwittingly , relating it to what is happening in america in 2002 . but hard-to-believe plot twists force the movie off track in its final half hour . 
-
+P	VN	a mess , but it's a sincere mess . 
+P	VN	lacks the inspiration of the original and has a bloated plot that stretches the running time about 10 minutes past a child's interest and an adult's patience . but it also has many of the things that made the first one charming . 
+N	VP	serry does a fine job of capturing the climate of the times and , perhaps unwittingly , relating it to what is happening in america in 2002 . but hard-to-believe plot twists force the movie off track in its final half hour . 
+N	VP	part comedy , part drama , the movie winds up accomplishing neither in full , and leaves us feeling touched and amused by several moments and ideas , but nevertheless dissatisfied with the movie as a whole . 
+N	VP	the film is surprisingly well-directed by brett ratner , who keeps things moving well -- at least until the problematic third act . 
+N	P	watching austin powers in goldmember is like binging on cotton candy . it's sweet and fluffy at the time , but it may leave you feeling a little sticky and unsatisfied . 
+N	P	woody allen can write and deliver a one liner as well as anybody . but i had a lot of problems with this movie . 
+		
 CONTRASTIVE CONJUNCTION AND NEGATION
-interesting , but not compelling . 
-it's plotless , shapeless -- and yet , it must be admitted , not entirely humorless . indeed , the more outrageous bits achieve a shock-you-into-laughter intensity of almost dadaist proportions . 
-
-THE MOVIE IS ABOUT NEGATIVE THINGS, SO "NEGATIVE" WORDS ARE USED TO MAKE A POSITIVE STATEMENT ABOUT ITS EMOTIONAL IMPACT
-succeeds where its recent predecessor miserably fails because it demands that you suffer the dreadfulness of war from both sides . 
-painful , horrifying and oppressively tragic , this film should not be missed . 
-this starts off with a 1950's doris day feel and it gets very ugly , very fast . the first five minutes will have you talking 'til the end of the year ! 
-
+P	VN	it's plotless , shapeless -- and yet , it must be admitted , not entirely humorless . indeed , the more outrageous bits achieve a shock-you-into-laughter intensity of almost dadaist proportions . 
+N	P	interesting , but not compelling . 
+		
+THE MOVIE IS ABOUT NEGATIVE THINGS, SO "NEGATIVE" WORDS ARE USED TO MAKE A POSITIVE STATEMENT ABOUT ITS EMOTIONAL IMPACT?
+P	VN	this starts off with a 1950's doris day feel and it gets very ugly , very fast . the first five minutes will have you talking 'til the end of the year ! 
+P	VN	succeeds where its recent predecessor miserably fails because it demands that you suffer the dreadfulness of war from both sides . 
+P	VN	painful , horrifying and oppressively tragic , this film should not be missed . 
+		
 REVIEW IS NEUTRAL
-starts off with a bang , but then fizzles like a wet stick of dynamite at the very end . it's still worth a look . 
-same song , second verse , coulda been better , but it coulda been worse . 
-in the long , dishonorable history of quickie teen-pop exploitation , like mike stands out for its only partly synthetic decency . 
-a sloppy , amusing comedy that proceeds from a stunningly unoriginal premise . 
-the actors are simply too good , and the story too intriguing , for technical flaws to get in the way . 
+P	VN	starts off with a bang , but then fizzles like a wet stick of dynamite at the very end . it's still worth a look . 
+P	VN	same song , second verse , coulda been better , but it coulda been worse . 
+P	VN	in the long , dishonorable history of quickie teen-pop exploitation , like mike stands out for its only partly synthetic decency . 
+P	VN	a sloppy , amusing comedy that proceeds from a stunningly unoriginal premise . 
+P	VN	the actors are simply too good , and the story too intriguing , for technical flaws to get in the way . 
+		
