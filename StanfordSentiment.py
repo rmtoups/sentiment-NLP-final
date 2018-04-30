@@ -16,4 +16,4 @@ class utils():
 	def getStanfordSentiment(input):
 		return utils.callAPI(input,'sentiment')['sentences'][0]['sentiment']
 
-#pprint(utils.callAPI("I hate you.",'pos'))
+pprint(utils.callAPI("I hate you.",'pos'))
