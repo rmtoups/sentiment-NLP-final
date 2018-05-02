@@ -56,6 +56,7 @@ N	VP	. . . a fascinating curiosity piece -- fascinating , that is , for about te
 		
 NEGATION
 P	VN	no worse a film than breaking out , and breaking out was utterly charming . 
+P	VN	works because , for the most part , it avoids the stupid cliches and formulaic potholes that befall its brethren . 
 		
 CONTRASTIVE CONJUNCTION
 P	VN	a mess , but it's a sincere mess . 
@@ -70,7 +71,7 @@ CONTRASTIVE CONJUNCTION AND NEGATION
 P	VN	it's plotless , shapeless -- and yet , it must be admitted , not entirely humorless . indeed , the more outrageous bits achieve a shock-you-into-laughter intensity of almost dadaist proportions . 
 N	P	interesting , but not compelling . 
 		
-THE MOVIE IS ABOUT NEGATIVE THINGS, SO "NEGATIVE" WORDS ARE USED TO MAKE A POSITIVE STATEMENT ABOUT ITS EMOTIONAL IMPACT?
+THE MOVIE IS ABOUT NEGATIVlike the film's almost anthropologically detailed realization of early-'80s suburbia , it's significant without being overstated . E THINGS, SO "NEGATIVE" WORDS ARE USED TO MAKE A POSITIVE STATEMENT ABOUT ITS EMOTIONAL IMPACT?
 P	VN	this starts off with a 1950's doris day feel and it gets very ugly , very fast . the first five minutes will have you talking 'til the end of the year ! 
 P	VN	succeeds where its recent predecessor miserably fails because it demands that you suffer the dreadfulness of war from both sides . 
 P	VN	painful , horrifying and oppressively tragic , this film should not be missed . 
@@ -82,3 +83,20 @@ P	VN	in the long , dishonorable history of quickie teen-pop exploitation , like 
 P	VN	a sloppy , amusing comedy that proceeds from a stunningly unoriginal premise . 
 P	VN	the actors are simply too good , and the story too intriguing , for technical flaws to get in the way . 
 		
+
+=================================================
+4/30 -- Rachel Toups
+=================================================
+
+SECOND SENTENCE IS WEIGHTED MORE THAN FIRST
+P	N	the story loses its bite in a last-minute happy ending that's even less plausible than the rest of the picture . much of the way , though , this is a refreshingly novel ride .
+
+SEEMINGLY NEGATIVE QUALITIES ARE SEEN AS GOOD
+P 	N 	in its ragged , cheap and unassuming way , the movie works . 
+P	N	you'd think by now america would have had enough of plucky british eccentrics with hearts of gold . yet the act is still charming here .
+
+???
+P	N	behind the snow games and lovable siberian huskies ( plus one sheep dog ) , the picture hosts a parka-wrapped dose of heart . 
+
+WITHOUT
+P	N	like the film's almost anthropologically detailed realization of early-'80s suburbia , it's significant without being overstated . 
