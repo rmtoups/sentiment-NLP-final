@@ -4,10 +4,11 @@ import sys
 from StanfordSentiment import utils
 from stanfordcorenlp import StanfordCoreNLP
 import json
+import postprocessor
 
-def checkCorrect(correctSentiment,guess):
+def checkCorrect(guess):
 	if correctSentiment == 'pos':
-		if guess >= 3:
+		if guess > 2:
 			return True
 		else:
 			return False
@@ -17,13 +18,13 @@ def checkCorrect(correctSentiment,guess):
 		else:
 			return False
 	if correctSentiment == 'neg':
-		if guess <= 1:
+		if guess < 2:
 			return True
 		else:
 			return False
 
 #read input
-inFile = open(sys.argv[1],'r')
+inFile = open(sys.argv[1],'r', encoding="latin-1")
 
 #string, pos, neg, or neutral
 correctSentiment = sys.argv[2]#float(sys.argv[2]) #positive = 3 or 4, neutral = 2, or negative = 1 or 0
@@ -34,8 +35,17 @@ if correctSentiment not in "pos neutral neg":
 
 
 stanfordCorrect = 0
+propCorrect = 0
 newCorrect = 0
+fixedCount = 0
 total = 0
+
+fixedErrors = []
+introducedErrors = []
+
+nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
+
+outcsv = open("out.csv","w")
 
 for line in inFile.readlines():
 	#print(line)
@@ -43,17 +53,49 @@ for line in inFile.readlines():
 	print(line)
 	total += 1
 	#get Stanford annotations
-	nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
 	props = {'annotators': 'sentiment,pos','pipelineLanguage':'en','outputFormat':'json'}
 	output = json.loads(nlp.annotate(line,properties=props))
 
 	sentiment = int(output['sentences'][0]['sentimentValue'])
 
-	if checkCorrect(correctSentiment,sentiment):
-		stanfordCorrect += 1
+	propSentiment = postprocessor.propSentiment(output)
+	newSentiment = postprocessor.fullSentiment(output)
+
+	stanfordCorrect += checkCorrect(sentiment)
 	print(sentiment)
 
+	propCorrect += checkCorrect(propSentiment)
+	print(propSentiment)
+
+	newCorrect += checkCorrect(newSentiment)
+	print(newSentiment)
+
+	if checkCorrect(sentiment) and not checkCorrect(newSentiment):
+		introducedErrors.append(line+str(newSentiment))
+	elif checkCorrect(newSentiment) and not checkCorrect(sentiment):
+		fixedErrors.append(line)
+
+	outcsv.write(str(sentiment))
+	outcsv.write(",")
+	outcsv.write(str(newSentiment))
+	outcsv.write("\n")
+
+print("Errors fixed: ")
+for line in fixedErrors:
+  print(line)
+
+print("Errors introduced: ")
+for line in introducedErrors:
+  print(line)
+
 print("\nStanford: %i out of %i correct" % (stanfordCorrect,total))
+print("Propagation only: %i out of %i correct" % (newCorrect,total))
+print("New system: %i out of %i correct\n" % (newCorrect,total))
+print("Errors fixed: ",len(fixedErrors))
+print("Errors introduced: ",len(introducedErrors))
+
+nlp.close()
+outcsv.close()
 
 #find conjunctions
 
