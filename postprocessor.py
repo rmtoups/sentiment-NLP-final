@@ -25,6 +25,10 @@ def fullSentiment(result):
   for sentenceResult in result["sentences"]:
     atree = Tree.fromstring(sentenceResult["sentimentTree"])
     s += getSentimentFromTree(atree)
+
+  if s/len(result["sentences"]) == 2.0:
+    return int(atree.label().split('|')[1][len("sentiment="):])
+
   return s/len(result["sentences"])
 
 def getSentimentFromTree(atree):

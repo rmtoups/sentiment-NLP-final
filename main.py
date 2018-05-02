@@ -45,7 +45,7 @@ introducedErrors = []
 
 nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
 
-outcsv = open("out.csv","w")
+outcsv = open(correctSentiment+"-out.csv","w")
 
 for line in inFile.readlines():
 	#print(line)
