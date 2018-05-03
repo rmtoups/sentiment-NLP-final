@@ -1,0 +1,258 @@
+Stanford	new	review text
+3.000000	1.999812	there is a difference between movies with the courage to go over the top and movies that don't care about being stupid
+3.000000	1.984406	such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us " the skulls " and last year's " rollerball ; " enough said , except : film overboard ! 
+2.000000	1.875000	everything is off ; 
+2.000000	1.996745	what you expect is just what you get ; ; ; assuming the bar of expectations hasn't been raised above sixth-grade height ; 
+2.000000	1.957194	directors john musker and ron clements , the team behind the little mermaid , have produced sparkling retina candy , but they aren't able to muster a lot of emotional resonance in the cold vacuum of space ; 
+3.000000	1.986328	adam sandler's heart may be in the right place , but he needs to pull his head out of his butt
+2.000000	1.937500	terminally brain dead production ; 
+3.000000	1.995117	j ; lo will earn her share of the holiday box office pie , although this movie makes one thing perfectly clear : she's a pretty woman , but she's no working girl ; 
+2.000000	1.748047	off the hook is overlong and not well-acted , but credit writer-producer-director adam watstein with finishing it at all ; 
+3.000000	1.972782	despite a performance of sustained intelligence from stanford and another of subtle humour from bebe neuwirth , as an older woman who seduces oscar , the film founders on its lack of empathy for the social milieu - rich new york intelligentsia - and its off
+2.000000	1.718750	bisset delivers a game performance , but she is unable to save the movie ; 
+3.000000	1.705139	the acting is fine but the script is about as interesting as a recording of conversations at the wal-mart checkout line ; 
+3.000000	1.865234	though its atmosphere is intriguing ; ; ; the drama is finally too predictable to leave much of an impression ; 
+3.000000	1.692708	diane lane's sophisticated performance can't rescue adrian lyne's unfaithful from its sleazy moralizing ; 
+2.000000	1.992188	it's like an all-star salute to disney's cheesy commercialism ; 
+2.000000	1.998617	they kept much of the plot but jettisoned the stuff that would make this a moving experience for people who haven't read the book ; 
+3.000000	1.473958	just because a walk to remember is shrewd enough to activate girlish tear ducts doesn't mean it's good enough for our girls ; 
+3.000000	1.902344	the boys' sparring , like the succession of blows dumped on guei , wears down the story's more cerebral , and likable , plot elements ; 
+3.000000	1.945312	what starts off as a potentially incredibly twisting mystery becomes simply a monster chase film ; 
+3.000000	1.976562	that the chuck norris " grenade gag " occurs about 7 times during windtalkers is a good indication of how serious-minded the film is ; 
+3.000000	1.932536	it's not exactly worth the bucks to expend the full price for a date , but when it comes out on video , it's well worth a rental ; 
+2.000000	1.994792	the actresses may have worked up a back story for the women they portray so convincingly , but viewers don't get enough of that background for the characters to be involving as individuals rather than types ; 
+3.000000	1.890625	[at least] moore is a real charmer ; 
+3.000000	1.879395	swinging , the film makes it seem , is not a hobby that attracts the young and fit ; or intelligent ; 
+2.000000	1.969728	there are enough throwaway references to faith and rainbows to plant smile-button faces on that segment of the populace that made a walk to remember a niche hit ; 
+3.000000	1.938477	a wildly erratic drama with sequences that make you wince in embarrassment and others , thanks to the actors , that are quite touching ; 
+3.000000	1.500000	strangely comes off as a kingdom more mild than wild ; 
+2.000000	1.951945	davis has energy , but she doesn't bother to make her heroine's book sound convincing , the gender-war ideas original , or the comic scenes fly ; 
+2.000000	1.937500	in the book-on-tape market , the film of " the kid stays in the picture " would be an abridged edition
+2.000000	1.750000	below is well below expectations ; 
+3.000000	1.997721	the master of disguise is funny--not " ha ha " funny , " dead circus performer " funny ; and for all the wrong reasons besides ; 
+3.000000	1.984375	sets animation back 30 years , musicals back 40 years and judaism back at least 50 ; 
+3.000000	1.796875	everything's serious , poetic , earnest and -- sadly -- dull ; 
+2.000000	1.843750	we've liked klein's other work but rollerball left us cold ; 
+2.000000	1.869141	nohe has made a decent 'intro' documentary , but he feels like a spectator and not a participant ; 
+2.000000	1.937500	kapur's contradictory feelings about his material result in a movie that works against itself ; 
+3.000000	1.999695	crudup's screen presence is the one thing that holds interest in the midst of a mushy , existential exploration of why men leave their families ; 
+2.000000	1.625000	decent but dull ; 
+3.000000	1.968750	the piano teacher , like its title character , is repellantly out of control ; 
+2.000000	1.791667	how this one escaped the lifetime network i'll never know ; 
+3.000000	1.583333	the innocence of holiday cheer ain't what it used to be ; 
+2.000000	1.953125	heavy with flabby rolls of typical toback machinations ; 
+3.000000	1.986328	twenty-three movies into a mostly magnificent directorial career , clint eastwood's efficiently minimalist style finally has failed him ; big time ; 
+3.000000	1.750000	the movie is gorgeously made , but it is also somewhat shallow and art-conscious ; 
+2.000000	1.750000	odd and weird ; 
+3.000000	1.683594	the photographer's show-don't-tell stance is admirable , but it can make him a problematic documentary subject ; 
+3.000000	1.942596	there's no question that epps scores once or twice , but it's telling that his funniest moment comes when he falls about ten feet onto his head ; 
+3.000000	1.910400	not the great american comedy , but if you liked the previous movies in the series , you'll have a good time with this one too ; 
+2.000000	1.968750	has its charming quirks and its dull spots ; 
+2.000000	1.875000	formulaic to the 51st power , more like ; 
+2.000000	1.750000	draggin' about dragons
+3.000000	1.968750	howard and his co-stars all give committed performances , but they're often undone by howard's self-conscious attempts to find a 'literary' filmmaking style to match his subject ; 
+3.000000	1.781250	complex , sinuously plotted and , somehow , off-puttingly cold ; 
+3.000000	1.964355	this bond film goes off the beaten path , not necessarily for the better ; 
+3.000000	1.998535	there's something not entirely convincing about the quiet american ; and that holds true for both the movie and the title character played by brendan fraser ; 
+3.000000	1.968750	a fascinating but choppy documentary ; 
+2.000000	1.968750	ruh-roh ! romething's really wrong with this ricture ! 
+2.000000	1.000000	who , exactly , is fighting whom here ? ah , yes , that would be me : fighting off the urge to doze ; 
+3.000000	1.777344	it's a very sincere work , but it would be better as a diary or documentary ; 
+2.000000	1.945312	the impulses that produced this project ; ; ; are commendable , but the results are uneven ; 
+3.000000	1.958333	a well-acted movie that simply doesn't gel ; 
+2.000000	1.000000	was i scared ? only at the prospect of beck's next project ; let's see , a haunted house , a haunted ship , what's next ; ; ; ghost blimp ? 
+3.000000	1.955729	bolstered by an astonishing voice cast ( excepting love hewitt ) , an interesting racial tension , and a storyline that i haven't encountered since at least pete's dragon ; 
+3.000000	1.937500	i highly recommend irwin , but not in the way this film showcases him ; 
+3.000000	1.999269	though it goes further than both , anyone who has seen the hunger or cat people will find little new here , but a tasty performance from vincent gallo lifts this tale of cannibal lust above the ordinary ; 
+3.000000	1.921224	 " what john does is heroic , but we don't condone it , " one of the film's stars recently said , a tortuous comment that perfectly illustrates the picture's moral schizophrenia ; 
+2.000000	1.984375	boy , has this franchise ever run out of gas ; 
+2.000000	1.999023	the pace and the visuals are so hyped up that a curious sense of menace informs everything ; 
+2.000000	1.987061	hollywood ending is the most disappointing woody allen movie ever ; he has a great cast and a great idea ; but the execution is a flop with the exception of about six gags that really work ; 
+2.000000	1.985352	 ; ; ; one big laugh , three or four mild giggles , and a whole lot of not much else ; 
+2.000000	1.523438	occasionally funny , sometimes inspiring , often boring ; 
+2.000000	1.999969	who are 'they' ? well , they're 'they' ; they're the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid ; they exist for hushed lines like " they're back ! " , " they're out there ! " and " they're coming ! " 
+3.000000	1.999527	the film is really closer to porn than a serious critique of what's wrong with this increasingly pervasive aspect of gay culture ; 
+2.000000	1.992676	alternative medicine obviously has its merits ; ; ; but ayurveda does the field no favors ; 
+2.000000	1.996094	ice age posits a heretofore unfathomable question : is it possible for computer-generated characters to go through the motions ? 
+3.000000	1.882812	fessenden has nurtured his metaphors at the expense of his narrative , but he does display an original talent ; 
+3.000000	1.692708	it's mildly amusing , but i certainly can't recommend it ; 
+3.000000	1.989258	it's inoffensive , cheerful , built to inspire the young people , set to an unending soundtrack of beach party pop numbers and aside from its remarkable camerawork and awesome scenery , it's about as exciting as a sunburn ; 
+3.000000	1.667318	very special effects , brilliantly bold colors and heightened reality can't hide the giant achilles' heel in " stuart little 2 " : there's just no story , folks ; 
+3.000000	1.997070	a movie that hovers somewhere between an acute character study and a trite power struggle ; 
+3.000000	1.986979	i can't recommend it ; but it's surprisingly harmless ; 
+3.000000	1.938053	despite all evidence to the contrary , this clunker has somehow managed to pose as an actual feature movie , the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults ; 
+2.000000	1.720052	impostor has a handful of thrilling moments and a couple of good performances , but the movie doesn't quite fly ; for starters , the story is just too slim ; 
+4.000000	1.999023	the film takes the materials of human tragedy and dresses them in lovely costumes , southern california locations and star power ; 
+2.000000	1.750000	almost gags on its own gore ; 
+2.000000	1.958333	under 15 ? a giggle a minute ; over age 15 ? big fat waste of time ; 
+2.000000	1.875000	not exactly the bees knees
+2.000000	1.988281	if only the story about a multi-million dollar con bothered to include the con ; 
+3.000000	1.738281	harrison's flowers puts its heart in the right place , but its brains are in no particular place at all ; 
+3.000000	1.992188	for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam ; 
+2.000000	1.232096	don't be fooled by the impressive cast list - eye see you is pure junk ; 
+2.000000	1.499512	not since freddy got fingered has a major release been so painful to sit through ; 
+3.000000	1.766602	even the finest chef can't make a hotdog into anything more than a hotdog , and robert de niro can't make this movie anything more than a trashy cop buddy comedy ; 
+4.000000	1.766113	this is an egotistical endeavor from the daughter of horror director dario argento ( a producer here ) , but her raw performance and utter fearlessness make it strangely magnetic ; 
+3.000000	1.625122	visually rather stunning , but ultimately a handsome-looking bore , the true creativity would have been to hide treasure planet entirely and completely reimagine it ; 
+3.000000	1.847656	outer-space buffs might love this film , but others will find its pleasures intermittent ; 
+3.000000	1.474609	burns never really harnesses to full effect the energetic cast ; 
+2.000000	1.750000	warmed-over hash ; 
+2.000000	1.875000	a puzzling experience ; 
+2.000000	1.976562	it uses the pain and violence of war as background material for color ; 
+2.000000	1.875000	just not campy enough
+2.000000	1.947917	it's everything you don't go to the movies for ; 
+2.000000	1.998047	there ought to be a directing license , so that ed burns can have his revoked ; 
+2.000000	1.799479	serving sara doesn't serve up a whole lot of laughs ; 
+3.000000	1.652995	i can't quite recommend it -- it's too patched together -- but i almost can ; it's the kind of movie that makes you want to like it ; 
+3.000000	1.961589	davis ; ; ; is so enamored of her own creation that she can't see how insufferable the character is ; 
+3.000000	1.906250	a beautifully made piece of unwatchable drivel ; 
+2.000000	1.961060	i felt sad for lise not so much because of what happens as because she was captured by this movie when she obviously belongs in something lighter and sunnier , by rohmer , for example ; 
+2.000000	1.882812	remember when bond had more glamour than clamor ? no more ; 
+3.000000	1.990885	it doesn't quite deserve the gong , but there are more fascinating acts than " confessions of a dangerous mind ; " 
+2.000000	1.984375	you can practically smell the patchouli oil ; 
+3.000000	1.875000	an often-deadly boring , strange reading of a classic whose witty dialogue is treated with a baffling casual approach
+3.000000	1.998535	the production values are up there ; the use of cgi and digital ink-and-paint make the thing look really slick ; the voices are fine as well ; the problem , it is with most of these things , is the script ; 
+3.000000	1.984375	an earnest , heartrending look at the divide between religious fundamentalists and their gay relatives ; it's also heavy-handed and devotes too much time to bigoted views ; 
+3.000000	1.750000	nothing plot-wise is worth e-mailing home about ; 
+3.000000	1.728760	it wants to be thought of as a subversive little indie film , but it has all the qualities of a modern situation comedy ; 
+4.000000	1.765625	birot is a competent enough filmmaker , but her story has nothing fresh or very exciting about it ; 
+2.000000	1.672852	de niro and mcdormand give solid performances , but their screen time is sabotaged by the story's inability to create interest ; 
+2.000000	1.941422	the title trapped turns out to be a pretty fair description of how you feel while you're watching this ultra-manipulative thriller ; 
+3.000000	1.968750	it's also clear from the start that the transporter is running purely on adrenaline , and once the initial high wears off , the film's shortcomings start to shine through ; 
+2.000000	1.750000	not even the hanson brothers can save it
+2.000000	1.505208	obstacles are too easily overcome and there isn't much in the way of character development in the script ; 
+2.000000	1.875122	do not , under any circumstances , consider taking a child younger than middle school age to this wallow in crude humor ; 
+3.000000	1.998047	william shatner , as a pompous professor , is the sole bright spot ; ; ; 
+3.000000	1.929810	both stars manage to be funny , but , like the recent i spy , the star chemistry begs the question of whether random gags add up to a movie ; 
+3.000000	1.948975	 " collateral damage " goes by the numbers and reps decent action entertainment  until the silly showdown ending that forces the viewer to totally suspend disbelief
+3.000000	1.989583	is " ballistic " worth the price of admission ? absolutely not ; it sucked ; would i see it again ? please see previous answer ; 
+3.000000	1.867188	the creaking , rusty ship makes a fine backdrop , but the ghosts' haunting is routine ; 
+2.000000	1.896810	morrissette's script and direction show a fair amount of intelligence and wit -- but it doesn't signify a whole lot either ; 
+2.000000	1.000000	 " juwanna mann ? " no thanks ; wewannour money back , actually ; 
+2.000000	1.583333	we may never think of band camp as a geeky or nerdy thing again ; 
+2.000000	1.375366	desperately unfunny when it tries to makes us laugh and desperately unsuspenseful when it tries to make us jump out of our seats ; 
+2.000000	1.968750	anyone who can count to five ( the film's target market ? ) can see where this dumbed-down concoction is going ; 
+3.000000	1.937500	a bravura exercise in emptiness ; 
+2.000000	1.984619	despite the premise of a good story ; ; ; it wastes all its star power on cliched or meaningless roles ; 
+2.000000	1.937500	at the bottom rung of the series' entries ; 
+3.000000	1.973633	a real clunker ; a well-made , thoughtful , well-acted clunker , but a clunker nonetheless ; 
+2.000000	1.878906	this formulaic chiller will do little to boost stallone's career ; 
+3.000000	1.757812	there's an audience for it , but it could have been funnier and more innocent ; 
+3.000000	1.993256	serry does a fine job of capturing the climate of the times and , perhaps unwittingly , relating it to what is happening in america in 2002 ; but hard-to-believe plot twists force the movie off track in its final half hour ; 
+2.000000	1.995117	though the book runs only about 300 pages , it is so densely packed ; ; ; that even an ambitious adaptation and elaborate production like mr ; schepisi's seems skimpy and unclear ; 
+3.000000	1.941406	hey , at least the title of this film lets you know exactly where it's heading ; 
+3.000000	1.968750	sensitive though not quite revelatory documentary ; 
+3.000000	1.951823	i admire it and yet cannot recommend it , because it overstays its natural running time ; 
+3.000000	1.976562	the cumulative effect of the relentless horror on parade numbs the movie's power as a work of drama ; 
+3.000000	1.974609	a very stylish but ultimately extremely silly tale ; ; ; a slick piece of nonsense but nothing more ; 
+3.000000	1.750000	black-and-white and unrealistic ; 
+2.000000	1.953125	a standard haunted house tale transplanted to the high seas ; 
+2.000000	1.750000	propelled not by characters but by caricatures ; 
+3.000000	1.993490	the pivotal narrative point is so ripe the film can't help but go soft and stinky ; 
+2.000000	1.890625	what the four feathers lacks is genuine sweep or feeling or even a character worth caring about ; 
+2.000000	1.994141	yes , 4ever is harmless in the extreme and it'll mute your kids for nearly 80 minutes , but why not just treat the little yard apes to the real deal and take them to spirited away ? 
+2.000000	1.635173	the new faces are interesting , but the old story isn't , especially when it starts to seem more improvised than scripted ; 
+3.000000	1.968750	the kids often appear to be reading the lines and are incapable of conveying any emotion ; 
+3.000000	1.933919	it feels like a community theater production of a great broadway play : even at its best , it will never hold a candle to the original ; 
+2.000000	1.906250	ecks this one off your must-see list ; 
+2.000000	1.978841	beyond a handful of mildly amusing lines ; ; ; there just isn't much to laugh at ; 
+3.000000	1.988281	it's all very cute , though not terribly funny if you're more than six years old ; 
+2.000000	1.420573	no , it's not nearly as good as any of its influences ; 
+2.000000	1.875000	a sudsy cautionary tale ; 
+2.000000	1.984375	sushi for the connoisseurs of the macabre ; 
+2.000000	1.968750	if high crimes were any more generic it would have a universal product code instead of a title ; 
+2.000000	1.984375	the gantzes' interviews tend to let the guys off the hook ; 
+3.000000	1.694010	this is a good movie in spurts , but when it doesn't work , it's at important times ; 
+2.000000	1.500000	i hate this movie
+3.000000	1.767578	no doubt the star and everyone else involved had their hearts in the right place ; where their heads were is anyone's guess ; 
+2.000000	1.980306	who is this movie for ? not kids , who don't need the lesson in repugnance ; it's also not smart or barbed enough for older viewers -- not everyone thinks poo-poo jokes are 'edgy ; '
+3.000000	1.976562	the gifted crudup has the perfect face to play a handsome blank yearning to find himself , and his cipherlike personality and bad behavior would play fine if the movie knew what to do with him ; 
+3.000000	1.937500	interesting and thoroughly unfaithful version of carmen
+3.000000	1.708984	the movie certainly has its share of clever moments and biting dialogue , but there's just not much lurking below its abstract surface ; 
+3.000000	1.968750	high drama , disney-style - a wing and a prayer and a hunky has-been pursuing his castle in the sky ; 
+3.000000	1.996216	as it stands , there's some fine sex onscreen , and some tense arguing , but not a whole lot more ; 
+2.000000	1.998047	twenty years later , reggio still knows how to make a point with poetic imagery , but his ability to startle has been stifled by the very prevalence of the fast-forward technology that he so stringently takes to task ; 
+2.000000	1.970703	murphy and wilson actually make a pretty good team ; ; ; but the project surrounding them is distressingly rote ; 
+2.000000	1.985840	everything in maid in manhattan is exceedingly pleasant , designed not to offend ; it goes down easy , leaving virtually no aftertaste ; 
+3.000000	1.998617	a puzzle whose pieces do not fit ; some are fascinating and others are not , and in the end , it is almost a good movie ; 
+2.000000	1.998108	in spite of featuring a script credited to no fewer than five writers , apparently nobody here bothered to check it twice ; 
+3.000000	1.792155	goldbacher draws on an elegant visual sense and a talent for easy , seductive pacing ; ; ; but she and writing partner laurence coriat don't manage an equally assured narrative coinage ; 
+2.000000	1.997070	what can one say about a balding 50-year-old actor playing an innocent boy carved from a log ? 
+2.000000	1.989461	her film is like a beautiful food entrée that isn't heated properly , so that it ends up a bit cold and relatively flavorless ; 
+3.000000	1.996094	the concept is a hoot ; the trailer is a riot ; the movie is a dud ; 
+3.000000	1.963542	the filmmakers know how to please the eye , but it is not always the prettiest pictures that tell the best story ; 
+2.000000	1.916667	very well made , but doesn't generate a lot of tension ; 
+3.000000	1.914307	no such thing is sort of a minimalist beauty and the beast , but in this case the beast should definitely get top billing ; robert john burke as the monster horns in and steals the show ; 
+2.000000	1.980469	troll the cult section of your local video store for the real deal ; 
+3.000000	1.949219	it's difficult to conceive of anyone who has reached puberty actually finding the characters in slackers or their antics amusing , let alone funny ; 
+3.000000	1.882812	at least it's a fairly impressive debut from the director , charles stone iii ; 
+2.000000	1.984375	wanker goths are on the loose ! run for your lives ! 
+3.000000	1.937500	told in scattered fashion , the movie only intermittently lives up to the stories and faces and music of the men who are its subject ; 
+3.000000	1.753906	the irony is that this film's cast is uniformly superb ; their performances could have -- should have -- been allowed to stand on their own ; 
+3.000000	1.951172	sandra bullock's best dramatic performance to date ( is ) almost enough to lift ( this ) thrill-kill cat-and-mouser ; ; ; above its paint-by-numbers plot ; 
+3.000000	1.886393	a feel-good movie that doesn't give you enough to feel good about ; 
+2.000000	1.875000	bland but harmless ; 
+3.000000	1.749512	there's a neat twist , subtly rendered , that could have wrapped things up at 80 minutes , but kang tacks on three or four more endings ; 
+2.000000	1.971680	it's quite an achievement to set and shoot a movie at the cannes film festival and yet fail to capture its visual appeal or its atmosphere ; 
+2.000000	1.738281	they do a good job of painting this family dynamic for the audience but they tried to squeeze too many elements into the film ; 
+2.000000	1.984375	these are textbook lives of quiet desperation ; 
+3.000000	1.742188	there's an epic here , but you have to put it together yourself ; 
+2.000000	1.988281	tartakovsky's team has some freakish powers of visual charm , but the five writers slip into the modern rut of narrative banality ; 
+2.000000	1.996124	it's neither as sappy as big daddy nor as anarchic as happy gilmore or the waterboy , but it has its moments ; 
+2.000000	1.877075	aimed squarely at the least demanding of demographic groups : very small children who will be delighted simply to spend more time with familiar cartoon characters ; 
+3.000000	1.982422	it's coherent , well shot , and tartly acted , but it wears you down like a dinner guest showing off his doctorate ; 
+2.000000	1.992188	feels as if the inmates have actually taken over the asylum ; 
+3.000000	1.994792	the movie's gloomy atmosphere is fascinating , though , even if the movie itself doesn't stand a ghost of a chance ; 
+2.000000	1.937500	a road trip that will get you thinking , 'are we there yet ? '
+3.000000	1.833333	even murphy's expert comic timing and famed charisma can't rescue this effort ; 
+2.000000	1.000000	what's next ? rob schneider , dana carvey and sarah michelle gellar in the philadelphia story ? david spade as citizen kane ? 
+2.000000	1.583333	i can't say this enough : this movie is about an adult male dressed in pink jammies ; 
+2.000000	1.539998	demme gets a lot of flavor and spice into his charade remake , but he can't disguise that he's spiffing up leftovers that aren't so substantial or fresh ; 
+3.000000	1.951823	this is a heartfelt story ; ; ; it just isn't a very involving one ; 
+2.000000	1.700033	the superior plotline isn't quite enough to drag along the dead ( water ) weight of the other ; 
+3.000000	1.968750	hardly a nuanced portrait of a young woman's breakdown , the film nevertheless works up a few scares ; 
+2.000000	1.985652	what more can be expected from a college comedy that's target audience hasn't graduated from junior high school ? 
+2.000000	1.994731	you know that ten bucks you'd spend on a ticket ? just send it to cranky ; we don't get paid enough to sit through crap like this ; 
+2.000000	1.822917	'wouldn't it be nice if all guys got a taste of what it's like on the other side of the bra ? '
+3.000000	1.996094	anyone who suffers through this film deserves , at the very least , a big box of consolation candy ; 
+3.000000	1.722655	i liked the movie , but i know i would have liked it more if it had just gone that one step further ; i'm left slightly disappointed that it didn't ; 
+2.000000	1.994385	[screenwriter] pimental took the farrelly brothers comedy and feminized it , but it is a rather poor imitation ; 
+3.000000	1.882812	not everything in the film works , including its somewhat convenient ending ; 
+3.000000	1.486328	paul bettany is good at being the ultra-violent gangster wannabe , but the movie is certainly not number 1 ; 
+3.000000	1.972656	dodgy mixture of cutesy romance , dark satire and murder mystery ; 
+2.000000	1.484375	whatever about warning kids about the dangers of ouija boards , someone should dispense the same advice to film directors ; 
+2.000000	1.500000	wishy-washy ; 
+2.000000	1.750000	inconsequential road-and-buddy pic ; 
+2.000000	1.776042	the film's most improbable feat ? it didn't go straight to video ; 
+2.000000	1.875000	a movie to forget
+2.000000	1.995321	there are many things that solid acting can do for a movie , but crafting something promising from a mediocre screenplay is not one of them ; 
+3.000000	1.965304	a weird little movie that's amusing enough while you watch it , offering fine acting moments and pungent insights into modern l ; a ; 's show-biz and media subcultures ; but it doesn't leave you with much ; 
+3.000000	1.986979	one of those based-on-truth stories that persuades you , with every scene , that it could never really have happened this way ; 
+3.000000	1.922852	it's absolutely amazing how first-time director kevin donovan managed to find something new to add to the canon of chan ; make chan's action sequences boring ; 
+3.000000	1.984375	the fourth in a series that i'll bet most parents had thought --hoped ! -- was a fad that had long since vanished ; 
+3.000000	1.718750	its premise is smart , but the execution is pretty weary ; 
+2.000000	1.976074	piccoli's performance is amazing , yes , but the symbols of loss and denial and life-at-arm's-length in the film seem irritatingly transparent ; 
+3.000000	1.984863	if you are into splatter movies , then you will probably have a reasonably good time with the salton sea ; 
+3.000000	1.632329	this is a children's film in the truest sense ; it's packed with adventure and a worthwhile environmental message , so it's great for the kids ; parents , on the other hand , will be ahead of the plot at all times , and there isn't enough clever innuendo to fil
+3.000000	1.683594	the film boasts at least a few good ideas and features some decent performances , but the result is disappointing ; 
+3.000000	1.697917	the connected stories of breitbart and hanussen are actually fascinating , but the filmmaking in invincible is such that the movie does not do them justice ; 
+2.000000	1.936523	don michael paul uses quick-cuts , ( very ) large shadows and wide-angle shots taken from a distance to hide the liberal use of a body double ( for seagal ) ; 
+3.000000	1.972656	seeing as the film lacks momentum and its position remains mostly undeterminable , the director's experiment is a successful one ; 
+2.000000	1.867245	the movie strains to stay on the light , comic side of the issue , despite the difficulty of doing so when dealing with the destruction of property and , potentially , of life itself ; 
+2.000000	1.984497	the sight of the name bruce willis brings to mind images of a violent battlefield action picture , but the film has a lot more on its mind--maybe too much ; 
+3.000000	1.720215	juliette binoche's sand is vivacious , but it's hard to sense that powerhouse of 19th-century prose behind her childlike smile ; 
+3.000000	1.914246	cattaneo reworks the formula that made the full monty a smashing success ; ; ; but neglects to add the magic that made it all work ; 
+2.000000	1.722626	behan's memoir is great material for a film -- rowdy , brawny and lyrical in the best irish sense -- but sheridan has settled for a lugubrious romance ; 
+3.000000	1.910156	the armenian genocide deserves a more engaged and honest treatment ; 
+2.000000	1.875000	where the film falters is in its tone ; 
+2.000000	1.984375	the only type of lives this glossy comedy-drama resembles are ones in formulaic mainstream movies ; 
+2.000000	1.968750	a sha-na-na sketch punctuated with graphic violence ; 
+3.000000	1.988281	a formula family tearjerker told with a heavy irish brogue ; ; ; accentuating , rather than muting , the plot's saccharine thrust ; 
+3.000000	1.911458	aptly named , this shimmering , beautifully costumed and filmed production doesn't work for me ; 
+3.000000	1.947266	the film ; ; ; presents classic moral-condundrum drama : what would you have done to survive ? the problem with the film is whether these ambitions , laudable in themselves , justify a theatrical simulation of the death camp of auschwitz ii-birkenau ; 
+3.000000	1.543620	the world needs more filmmakers with passionate enthusiasms like martin scorsese ; but it doesn't need gangs of new york ; 
+2.000000	1.998047	sade achieves the near-impossible : it turns the marquis de sade into a dullard ; 
+3.000000	1.960693	a technically well-made suspenser ; ; ; but its abrupt drop in iq points as it races to the finish line proves simply too discouraging to let slide ; 
+3.000000	1.995768	the film didn't move me one way or the other , but it was an honest effort and if you want to see a flick about telemarketers this one will due ; 
+2.000000	1.983398	in this film we at least see a study in contrasts ; the wide range of one actor , and the limited range of a comedian ; 
+3.000000	1.679688	enigma is well-made , but it's just too dry and too placid ; 

@@ -1,0 +1,26 @@
+Positive Review Output:
+
+	Stanford: 3788 out of 5331 correct
+	Propagation only: 3919 out of 5331 correct
+	New system: 3919 out of 5331 correct
+
+	Errors fixed:  649
+	Errors introduced:  518
+
+	real	17m30.038s
+	user	0m34.203s
+	sys	0m3.030s
+
+
+Negative Review Output:
+
+	Stanford: 4418 out of 5331 correct
+	Propagation only: 3336 out of 5331 correct
+	New system: 3336 out of 5331 correct
+
+	Errors fixed:  257
+	Errors introduced:  1339
+
+	real	17m53.406s
+	user	0m34.005s
+	sys	0m3.064s

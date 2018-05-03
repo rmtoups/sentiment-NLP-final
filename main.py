@@ -27,7 +27,7 @@ def checkCorrect(guess):
 inFile = open(sys.argv[1],'r', encoding="latin-1")
 
 #string, pos, neg, or neutral
-correctSentiment = sys.argv[2]#float(sys.argv[2]) #positive = 3 or 4, neutral = 2, or negative = 1 or 0
+correctSentiment = sys.argv[2]
 
 if correctSentiment not in "pos neutral neg":
 	print("please indicate pos, neutral, or neg")
@@ -47,6 +47,10 @@ nlp = StanfordCoreNLP(r'stanford-corenlp-full-2018-02-27')
 
 outcsv = open(correctSentiment+"-out.csv","w")
 
+fixed = open("fixedErrors_%s.txt" % (correctSentiment),'w')
+introduced = open("introducedErrors_%s.txt" % (correctSentiment),'w')
+fixed.write("Stanford\tnew\treview text\n")
+introduced.write("Stanford\tnew\treview text\n")
 for line in inFile.readlines():
 	#print(line)
 	line = line.replace('.',';')
@@ -56,7 +60,7 @@ for line in inFile.readlines():
 	props = {'annotators': 'sentiment,pos','pipelineLanguage':'en','outputFormat':'json'}
 	output = json.loads(nlp.annotate(line,properties=props))
 
-	sentiment = int(output['sentences'][0]['sentimentValue'])
+	sentiment = float(output['sentences'][0]['sentimentValue'])
 
 	propSentiment = postprocessor.propSentiment(output)
 	newSentiment = postprocessor.fullSentiment(output)
@@ -72,8 +76,10 @@ for line in inFile.readlines():
 
 	if checkCorrect(sentiment) and not checkCorrect(newSentiment):
 		introducedErrors.append(line+str(newSentiment))
+		introduced.write("%f\t%f\t%s" % (sentiment,newSentiment,line))
 	elif checkCorrect(newSentiment) and not checkCorrect(sentiment):
 		fixedErrors.append(line)
+		fixed.write("%f\t%f\t%s" % (sentiment,newSentiment,line))
 
 	outcsv.write(str(sentiment))
 	outcsv.write(",")
@@ -96,6 +102,9 @@ print("Errors introduced: ",len(introducedErrors))
 
 nlp.close()
 outcsv.close()
+fixed.close()
+introduced.close()
+
 
 #find conjunctions
 
