@@ -10,6 +10,9 @@ N	VP	it's a very tasteful rock and roll movie . you could put it on a coffee tab
 N	VP	the film is old-fashioned , occasionally charming and as subtle as boldface . 
 N	VP	a solid film . . . but more conscientious than it is truly stirring . 
 N	VP	the cast is uniformly excellent . . . but the film itself is merely mildly charming . 
+--------------------------------FIXED------------------------------------------------------------
+Stanford	New			Review Text
+2.000000	1.718750	bisset delivers a game performance , but she is unable to save the movie ; 
 		
 		
 POTENTIALLY MISCATEGORIZED IN CORPUS (out of scope)
@@ -26,6 +29,13 @@ SARCASM (out of scope)
 N	VP	this is a monumental achievement in practically every facet of inept filmmaking : joyless , idiotic , annoying , heavy-handed , visually atrocious , and often downright creepy . 
 N	P	such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us " the skulls " and last year's " rollerball . " enough said , except : film overboard ! 
 N	P	a portrait of alienation so perfect , it will certainly succeed in alienating most viewers . 
+------------------------------------FIXED----------------------------------------------------------------------
+Stanford	New			Review Text
+3.000000	1.984406	such master screenwriting comes courtesy of john pogue , the yale grad who previously gave us " the skulls " and last year's " rollerball ; " enough said , except : film overboard !
+000000	1.705139	the acting is fine but the script is about as interesting as a recording of conversations at the wal-mart checkout line ; 			*also fits in contrastive conjunctions
+3.000000	1.865234	though its atmosphere is intriguing ; ; ; the drama is finally too predictable to leave much of an impression ; 
+3.000000	1.692708	diane lane's sophisticated performance can't rescue adrian lyne's unfaithful from its sleazy moralizing ; 
+2.000000	1.992188	it's like an all-star salute to disney's cheesy commercialism ; 
 		
 		
 I DON'T EVEN KNOW
@@ -65,11 +75,25 @@ N	VP	serry does a fine job of capturing the climate of the times and , perhaps u
 N	VP	part comedy , part drama , the movie winds up accomplishing neither in full , and leaves us feeling touched and amused by several moments and ideas , but nevertheless dissatisfied with the movie as a whole . 
 N	VP	the film is surprisingly well-directed by brett ratner , who keeps things moving well -- at least until the problematic third act . 
 N	P	watching austin powers in goldmember is like binging on cotton candy . it's sweet and fluffy at the time , but it may leave you feeling a little sticky and unsatisfied . 
-N	P	woody allen can write and deliver a one liner as well as anybody . but i had a lot of problems with this movie . 
+N	P	woody allen can write and deliver a one liner as well as anybody . but i had a lot of problems with this movie .
+------------------------------------FIXED----------------------------------------------------------------------
+Stanford	New			Review Text 
+2.000000	1.957194	directors john musker and ron clements , the team behind the little mermaid , have produced sparkling retina candy , but they aren't able to muster a lot of emotional resonance in the cold vacuum of space ; 
+1.000000	2.046890	though mama takes a bit too long to find its rhythm and a third-act plot development is somewhat melodramatic , its ribald humor and touching nostalgia are sure to please anyone in search of a jules and jim for the new millennium ;
+------------------------------------Introduced----------------------------------------------------------------------
+Stanford	New			Review Text 
+4.000000	1.999268	waydowntown is by no means a perfect film , but its boasts a huge charm factor and smacks of originality ; 
+
 		
 CONTRASTIVE CONJUNCTION AND NEGATION
 P	VN	it's plotless , shapeless -- and yet , it must be admitted , not entirely humorless . indeed , the more outrageous bits achieve a shock-you-into-laughter intensity of almost dadaist proportions . 
 N	P	interesting , but not compelling . 
+------------------------------------FIXED----------------------------------------------------------------------
+Stanford	New			Review Text
+1.000000	2.027344	somewhere short of tremors on the modern b-scene : neither as funny nor as clever , though an agreeably unpretentious way to spend ninety minutes ; 
+------------------------------------Introduced----------------------------------------------------------------------
+Stanford	New			Review Text 
+1.000000	2.093750	has all the right elements but completely fails to gel together ;
 		
 THE MOVIE IS ABOUT NEGATIVlike the film's almost anthropologically detailed realization of early-'80s suburbia , it's significant without being overstated . E THINGS, SO "NEGATIVE" WORDS ARE USED TO MAKE A POSITIVE STATEMENT ABOUT ITS EMOTIONAL IMPACT?
 P	VN	this starts off with a 1950's doris day feel and it gets very ugly , very fast . the first five minutes will have you talking 'til the end of the year ! 
@@ -94,9 +118,17 @@ P	N	the story loses its bite in a last-minute happy ending that's even less plau
 SEEMINGLY NEGATIVE QUALITIES ARE SEEN AS GOOD
 P 	N 	in its ragged , cheap and unassuming way , the movie works . 
 P	N	you'd think by now america would have had enough of plucky british eccentrics with hearts of gold . yet the act is still charming here .
+------------------------------------FIXED----------------------------------------------------------------------
+Stanford	New			Review Text 
+2.000000	2.015862	steers turns in a snappy screenplay that curls at the edges ; it's so clever you want to hate it ; but he somehow pulls it off ; 
 
 ???
 P	N	behind the snow games and lovable siberian huskies ( plus one sheep dog ) , the picture hosts a parka-wrapped dose of heart . 
 
 WITHOUT
 P	N	like the film's almost anthropologically detailed realization of early-'80s suburbia , it's significant without being overstated . 
+
+
+
+MISIDENTIFIED BY OUR SYSTEM AS SARCASM:
+3.000000	1.986816	the film is often filled with a sense of pure wonderment and excitement not often seen in today's cinema du sarcasm
